@@ -36,11 +36,12 @@ h1 {
   text-shadow: 2px 1px #292929;
 }
 
-.link {
+.hero-link {
   text-decoration: none;
   color: rgb(0, 0, 0);
 }
-.link:hover {
+
+.hero-link:hover {
   color: rgb(0, 0, 255);
 }
 
