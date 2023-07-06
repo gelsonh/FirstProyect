@@ -2,6 +2,13 @@ h1 {
   color: purple;
 }
 
+.textTitle {
+  color: rgb(255, 0, 0);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 4em;
+  text-transform: uppercase;
+}
+
 .green-text {
   color: green;
 }
@@ -27,4 +34,16 @@ h1 {
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: yellow;
   text-shadow: 2px 1px #292929;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+.link:hover {
+  color: rgb(0, 0, 255);
+}
+
+.heroText {
+  text-align: justify;
 }
